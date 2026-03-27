@@ -1,0 +1,1 @@
+Some code related to my Master's project for anyones perusal. A quick disclaimer, all of this code is AI generated, a combination of me not knowing C, or how to write UDFs for Fluent, and Gemini being surprisingly competent at writing these small scripts meant I did not have to write anything.
